@@ -1,7 +1,5 @@
 
-# coding: utf-8
 
-# In[4]:
 
 
 n = int(input())
